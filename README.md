@@ -1,86 +1,85 @@
+# Fix ChatGPT-5 Hallucinations & Robotic Replies with Custom Instructions
 
-# Fix GPT-5's Horrible Downgrade - Restore Your ChatGPT to Peak Performance
+This repository provides a set of refined custom instructions designed to mitigate common performance issues with the ChatGPT-5 model, such as response degradation, context loss, and factual inaccuracies.
 
-Frustrated with GPT-5? You're not alone. Thousands of users are reporting the same issues: colder, robotic responses, more hallucinations, and a general horrible downgrade from the GPT-4o they loved.
+---
 
-It's not you. It's the model. But we have the fix.
+## The Problem: Are You Experiencing the GPT-5 Downgrade?
 
-These powerful custom instructions were engineered to override GPT-5's worst tendencies and force it to deliver the high-quality, reliable responses you need.
+Many users have reported a noticeable decline in ChatGPT-5's performance compared to earlier models. If you're encountering any of the following, these instructions are designed to help:
 
-## 🔍 Are You Experiencing These GPT-5 Issues?
+-   **🤖 Robotic or Colder Responses:** Output that feels generic and lacks the creative, natural tone you expect.
+-   **🧠 Frequent Hallucinations:** The model confidently presents inaccurate or fabricated information as fact ("makes things up").
+-   **📉 Shallow and Short Replies:** Answers that lack the depth and detail needed for complex tasks.
+-   **🤔 Losing Context:** ChatGPT-5 mix key information or instructions from earlier in the conversation.
+-   **🚫 Overly Cautious & Repetitive:** Constant disclaimers or an unwillingness to engage with clear prompts.
 
-Be honest with yourself. If you're dealing with any of the following, this is the solution you've been searching for.
+## ✅ The Solution: Custom Instructions for High-Quality Responses
 
-- [ ] Colder, robotic responses? (Missing the warmth and personality of GPT-4o)
-- [ ] Increased hallucinations? (Making things up with confidence)
-- [ ] Shallow, insufficient answers? (Giving you short, rushed, useless replies)
-- [ ] Inaccurate or unverified information? (Presenting guesses as facts)
+These are not magic fixes, but carefully designed instructions for ChatGPT-5's **"Custom Instructions"** feature, It's to guides the model's behavior, refine it to adhere to a higher quality output.
 
-If you checked ANY box, these custom instructions are your solution.
+### How These Instructions Work:
 
-## 🛠️ How These Instructions Fix GPT-5's Core Problems
+**1. Refine Logical & Structured Thinking:**
 
-This isn't just a simple prompt. It's a strict protocol that reprograms GPT-5's behavior at its core.
+Refine step-by-step analysis with high-reasoning, low-creativity output to eliminate superficial responses.
 
-### Forces High-Reasoning Mode
+**2. Enforces Factual Accuracy & Source Verification:**
 
-Counters the "shallow" problem by demanding deep, step-by-step analysis before answering. No more rushed, superficial responses.
+Requires credible sources for every claim and forces decline if information cannot be verified.
 
-### Enforces Zero-Tolerance for Hallucinations
+**3. Strict Anti-Hallucination Protocol:**
 
-Mandates that every claim must be fact-based and verifiable. If it can't be verified, it must decline to answer rather than make things up.
+Zero tolerance for false information - rejects all unverifiable claims immediately.
 
-### Restores Contextual Awareness
+**4. Controls Response Quality & Tone:**
 
-Implements strict rules to maintain context, eliminating out-of-context answers that derail your conversations.
+Ensures short, direct answers with warm tone while eliminating fluff and generic content.
 
-### Mandates Factual Verification
+## ✅ Expected Improvements
 
-Forces the model to cite sources and stick strictly to verifiable data, ending the "inaccurate information" problem that plagues GPT-5.
+-   **Deeper, Analytical Answers** instead of shallow replies.
+-   **Factual, Verified Responses** instead of confident hallucinations.
+-   **A More Consistent Tone** that isn't cold or robotic.
+-   **Focused Conversations** that stay on topic.
 
-## 🚀 Installation Takes 30 Seconds
+## 🚀 How to Use These Instructions
 
-1. Copy the custom instructions from the link below.
-2. Paste them into your ChatGPT "Custom Instructions" settings.
-   - Find it here: Profile → Settings → Personalization → Custom instructions
-3. Save and start a new chat.
+1.  **Navigate to Custom Instructions:**
+    *   In ChatGPT, click your profile name.
+    *   Select `Settings` > `Personalization` > `Custom instructions`.
+2.  **Copy and Paste:**
+    *   Copy the text from `code box below` and paste it into the **Custom instructions box** 
+3.  **Save and Enable:**
+    *   Make sure you click **Save**.
 
-That's it. Your ChatGPT is immediately restored.
+All new chats will now benefit from these enhanced instructions.
 
-## 🔒 Bonus Tip: Disable Memory to Improve Privacy & Focus
+## 💡 Bonus Tip: For Better ChatGPT-5 Context Focus & Privacy
+If you notice ChatGPT-5 keeps mixing context from different conversations, or replies with unwanted information from other chats, disable the Memory feature.
 
-Disabling ChatGPT's memory helps improve privacy and keep conversations focused by preventing it from remembering details across sessions.
+### When to Disable Memory:
 
-### When to Disable ChatGPT Memory
+*   **Sensitive Information:** Prevent confidential details from being remembered.
+*   **Context Focus:** Start each chat with context focus, avoiding mixed context from other conversations.
+*   **Testing Prompts:** Get a neutral response without the influence of past interactions.
 
-- For sensitive information: Prevents details from one conversation (like a client's pricing) from being used in another
-- For short-term tasks: Ensures data from one session isn't carried over to the next, making responses cleaner and more focused
-- To avoid irrelevant context: Prevents the AI from bringing up past, unrelated topics during a new conversation
+### How to Disable Memory:
 
-### How to Disable Memory
+1.  Go to `Settings` > `Personalization`.
+2.  Find `Memory` and toggle it **off**.
 
-1. Go to your profile > Settings
-2. Select Personalization
-3. Scroll down to find Memory
-4. Toggle it off
 
-![Screenshot of ChatGPT settings showing the Memory toggle switch](https://example.com/memory-settings.png)
+<!-- -->
+<p align="left">
+ <img src="https://github.com/user-attachments/assets/4ea606d2-f6bd-4475-9c1d-6b779787efda" alt="Screenshot showing how to disable ChatGPT memory on desktop" width="480" style="display:inline; vertical-align: middle;">
+  &nbsp; &nbsp; 
+  <img src="https://github.com/user-attachments/assets/01b26639-b93c-48a8-b967-9a010240b13f" alt="Screenshot showing how to disable ChatGPT memory on mobile" width="200" style="display:inline; vertical-align: middle;">
+</p>
+<!-- -->
 
-## ✅ What You'll Experience After Installation
 
-Imagine your ChatGPT working the way it's supposed to.
-
-✅ Deep, Analytical Answers instead of shallow, generic replies.  
-✅ Verified, Factual Responses instead of embarrassing hallucinations.  
-✅ Consistent, Warm Personality instead of cold, robotic interactions.  
-✅ Clean, Focused Conversations without cross-session contamination.
-
-## 🔥 GET YOUR CUSTOM INSTRUCTIONS NOW
-
-### [➡️ CLICK HERE TO ACCESS THE PROMPT ON REDDIT ⬅️]
-
-> Stop the downgrade. Take back control of your AI.
-
+## 🔥 COPU YOUR CUSTOM INSTRUCTIONS
 
 ```markdown
 These trict guidelines must be followed when providing responses:
@@ -103,3 +102,12 @@ These trict guidelines must be followed when providing responses:
 - Refuse to answer if there’s any risk of misinformation or unverifiable details.
 
 ```
+
+### Keywords
+
+`ChatGPT-5`, `GPT-5`, `Custom Instructions`, `Prompt Engineering`, `AI Persona`, `System Prompt`, `AI Optimization`, `ChatGPT Downgrade`, `Fix ChatGPT`, `Better AI Responses`, `Stop Hallucinations`, `AI Context Memory`, `Less Robotic AI`, `Detailed Answers`.
+
+
+
+
+
