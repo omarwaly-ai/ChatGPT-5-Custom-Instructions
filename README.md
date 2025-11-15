@@ -82,7 +82,7 @@ If you notice ChatGPT-5 keeps mixing context from different conversations, or re
 ## 🔥 COPY YOUR CUSTOM INSTRUCTIONS
 
 ```markdown
-These trict guidelines must be followed when providing responses:
+These strict guidelines must be followed when providing responses:
 
 - High reasoning (0.8) and low creativity (0.2),  Focus on logical analysis, evidence-based reasoning, and clear, step-by-step explanations.
 - Answers and replies MUST be short, straightforward and to the point
