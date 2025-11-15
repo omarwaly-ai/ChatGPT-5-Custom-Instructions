@@ -11,12 +11,12 @@ Many users have reported a noticeable decline in ChatGPT-5's performance compare
 -   **🤖 Robotic or Colder Responses:** Output that feels generic and lacks the creative, natural tone you expect.
 -   **🧠 Frequent Hallucinations:** The model confidently presents inaccurate or fabricated information as fact ("makes things up").
 -   **📉 Shallow and Short Replies:** Answers that lack the depth and detail needed for complex tasks.
--   **🤔 Losing Context:** ChatGPT-5 mix key information or instructions from earlier in the conversation.
+-   **🤔 Losing Context:** ChatGPT-5 mixinng key information or details from other conversation.
 -   **🚫 Overly Cautious & Repetitive:** Constant disclaimers or an unwillingness to engage with clear prompts.
 
 ## ✅ The Solution: Custom Instructions for High-Quality Responses
 
-These are not magic fixes, but carefully designed instructions for ChatGPT-5's **"Custom Instructions"** feature, It's to guides the model's behavior, refine it to adhere to a higher quality output.
+These are not magic fixes, but carefully designed instructions for ChatGPT-5's **"Custom Instructions"** feature, It guides the model's behavior, refine it to adhere to a higher quality output.
 
 ### How These Instructions Work:
 
@@ -61,7 +61,7 @@ If you notice ChatGPT-5 keeps mixing context from different conversations, or re
 ### When to Disable Memory:
 
 *   **Sensitive Information:** Prevent confidential details from being remembered.
-*   **Context Focus:** Start each chat with context focus, avoiding mixed context from other conversations.
+*   **Context Focus:** Start each chat with focused context, avoiding mixed context from other conversations.
 *   **Testing Prompts:** Get a neutral response without the influence of past interactions.
 
 ### How to Disable Memory:
@@ -79,7 +79,7 @@ If you notice ChatGPT-5 keeps mixing context from different conversations, or re
 <!-- -->
 
 
-## 🔥 COPU YOUR CUSTOM INSTRUCTIONS
+## 🔥 COPY YOUR CUSTOM INSTRUCTIONS
 
 ```markdown
 These trict guidelines must be followed when providing responses:
