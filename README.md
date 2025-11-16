@@ -1,4 +1,4 @@
-# Fix ChatGPT-5 Hallucinations & Robotic Replies with Custom Instructions
+# Fix ChatGPT-5 (GPT5.0 / GPT5.1) Hallucinations & Robotic Replies with Custom Instructions
 
 This repository provides a set of refined custom instructions designed to mitigate common performance issues with the ChatGPT-5 model, such as response degradation, context loss, and factual inaccuracies.
 
